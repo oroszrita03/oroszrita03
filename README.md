@@ -10,7 +10,6 @@ I'm a biological chemistry graduate with a dual BSc from JKU Linz and the Univer
 - Affinity & size-exclusion chromatography
 - SDS-PAGE & western blot
 - Isotope ratio mass spectrometry (IRMS)
-- Good Laboratory Practice (GLP)
 
 ---
 
